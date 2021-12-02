@@ -18,7 +18,11 @@ s.source = { :git => "https://github.com/galangajisusanto/Gimpolitan-Core.git", 
 
 s.framework = "UIKit"
 
+s.source_files = "Core/**/*.{swift}"
+
 #s.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
-s.swift_version = "5.5.1"
+s.swift_version = "5.5"
+
+end
 
