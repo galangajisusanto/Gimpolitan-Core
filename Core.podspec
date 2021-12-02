@@ -20,9 +20,10 @@ s.framework = "UIKit"
 
 s.source_files = "Core/**/*.{swift}"
 
+s.dependency 'RxSwift'
+
 #s.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 s.swift_version = "5.5"
 
 end
-
